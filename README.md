@@ -13,3 +13,6 @@
         </ul>
       </li>
      
+## Auth Login each user
+ <li>Feature <ul dir="auto">
+          <li>Each user can create their own Products</li>
