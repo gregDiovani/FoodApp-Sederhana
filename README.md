@@ -1,7 +1,7 @@
 <h1>Restaraunt apps Demo Projects</h1>
 
 
-## BeveragesApps
+## FoodApps
 <li>
     <strong>CRUD</strong> 
       <li>Feature <ul dir="auto">
